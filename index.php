@@ -60,7 +60,9 @@ if(isset($_POST['username'], $_POST['password'])){
             color: white;
             font-family: sans-serif;
         }
-
+            
+        /* <!-- SECRET:ETA -->*/
+            
         #div_login div{
             clear: both;
             margin-top: 10px;
@@ -102,7 +104,6 @@ if(isset($_POST['username'], $_POST['password'])){
             </div>
         </form>
         <p>Powered By TuwaiqCMS</p>
-        <!-- SECRET:ETA -->
     </div>
     </body>
 </html>
